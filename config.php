@@ -1,5 +1,5 @@
 <?php
-$config_site_name		= "Site Name";
+$config_site_name		= "EY-Egypt.orchestra.io";
 
 $db_hostname			= "10.194.111.8";
 $db_database			= "db_b8edb3a1";
